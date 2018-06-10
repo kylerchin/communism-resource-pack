@@ -4,6 +4,10 @@
 
     "redguards": {"sounds": ["custom/redguards"]},
 
-    "chineseanthem": {"sounds": ["custom/chinaanthem"]}
+    "chineseanthem": {"sounds": ["custom/chinaanthem"]},
+        
+    "xiaopingguo": {"sounds": ["custom/xiaopingguo"]},
+        
+    "littleapple": {"sounds": ["custom/xiaopingguo"]}
 
     }
